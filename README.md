@@ -5,7 +5,7 @@
 * dotnet build
 * dotnet publish -o=C:\Dev\publish 
 * sc create MusicStoreAsService binPath= "C:\Dev\publish\MusicStoreAsService.exe"
-* http://localhost:5000/ should work now.
+* http://localhost:5050/ should work now.
 
 ##### References : 
   * http://stackoverflow.com/a/37464074/857956
