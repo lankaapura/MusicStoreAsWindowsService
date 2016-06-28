@@ -1,5 +1,6 @@
 #### How to Run Asp.NET Core application as a Windows service
 
+* Clone the source and execute following commands([.NET Core SDK required](https://www.microsoft.com/net/core#windows))
 * dotnet restore
 * dotnet build
 * dotnet publish -o=C:\Dev\publish 
